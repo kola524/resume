@@ -56,5 +56,7 @@
 ### Сайты
 
 <a href=""><img src="./img/nick.png"> </a>
+<br/>  
+
 <a href=""><img src="./img/comp.png"> </a>
 
