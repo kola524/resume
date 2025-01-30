@@ -55,8 +55,8 @@
 
 ### Сайты
 
-<a href=""><img src="./img/nick.png"> </a>
+<a href="https://github.com/kola524/nick"><img src="./img/nick.png"> </a>
 <br/>  
 
-<a href=""><img src="./img/comp.png"> </a>
+<a href="https://github.com/kola524/web-site-org"><img src="./img/comp.png"> </a>
 
