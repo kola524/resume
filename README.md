@@ -17,6 +17,7 @@
 
 - ⚡ Изучаю React js
 - ⚡ Есть не большой опыт работы с Linux
+- Профиль со всеми <a href="https://github.com/kola524">репозиториями</a> https://github.com/kola524
   
 
 <br/>  
