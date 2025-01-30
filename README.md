@@ -21,7 +21,7 @@
 <br/>  
 
 
-## My Skill Set  
+### Чем я владею 
 <table><tr><td valign="top" width="33%">
 
 
@@ -53,5 +53,8 @@
 
 <br/>  
 
+### Сайты
 
+<a href=""><img src="./img/nick" align="center" style="width: 400px, height:300px" /> </a>
+<a href=""><img src="./img/comp" align="center" style="width: 400px, height:300px" /> </a>
 
