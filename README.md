@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./img/Снимок экрана 2025-01-30 153234.png" align="center" style="width: 500px, height:400px" />
+<img src="./img/Снимок экрана 2025-01-30 153234.png" align="center" style="width: 400px, height:300px" />
 </div>  
   
 
