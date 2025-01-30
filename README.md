@@ -12,7 +12,7 @@
 - 🌱 Изучаю c#  
   
 
-- ❓ есть опыт работы с Telegram api разработка ботов python aiogram  
+- ❓ есть опыт работы с Telegram api разработка ботов <a href="https://github.com/kola524/python_botergergert">python</a> aiogram  
   
 
 - ⚡ Изучаю React js  
