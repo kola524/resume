@@ -1,64 +1,62 @@
 <div align="center">
-<img src="./img/Снимок экрана 2025-01-30 153234.png" align="center" style="width: 400px, height:300px" />
-</div>  
-  
+  <h1>Привет, я Николай Байлыев 👋</h1>
+  <p><b>Junior Fullstack Web Developer | Специалист по цифровой инфраструктуре</b></p>
 
-### <div align="center">Я Николай Байлыев и я Web Разработчик</div>  
-  
-
-- Владею адаптивной версткой  
-  
-
-- 🌱 Изучаю c#  
-  
-
-- ❓ есть опыт работы с Telegram api разработка ботов <a href="https://github.com/kola524/python_botergergert">python</a> aiogram  
-  
-
-- ⚡ Изучаю React js
-- ⚡ Есть не большой опыт работы с Linux
-- Профиль со всеми <a href="https://github.com/kola524">репозиториями</a> https://github.com/kola524
-  
-
-<br/>  
-
-
-### Чем я владею 
-<table><tr><td valign="top" width="33%">
-
-
-
-### Навыки  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>    
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>    
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
+  <img src="https://komarev.com/ghpvc/?username=kola524&label=Просмотры%20профиля&color=0e75b6&style=flat" alt="Views" />
 </div>
 
-</td><td valign="top" width="33%">
+---
 
+### 👨‍💻 Обо мне
 
+Я разработчик из Караганды, специализируюсь на создании масштабируемых веб-приложений и REST API. Люблю порядок в коде и контейнеризацию.
 
-</td><td valign="top" width="33%">
+- 🎓 Выпускник колледжа (техник информационных систем).
+- 🏆 2-е место в международной научной конференции «Challenges of the Digital World in the Era of AI» (2026).
+- 📝 Соавтор научной статьи по архитектуре баз данных и Docker.
+- 🌱 Сейчас активно углубляюсь в **React** и **C# (.NET)**.
+- 🐧 Уверенный пользователь **Linux** (настройка окружения, Docker).
 
+---
 
+### 🛠 Стек технологий
 
-</td></tr></table>  
+| Frontend | Backend | Инструменты & OS |
+| :--- | :--- | :--- |
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) (Slim 4) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
 
-<br/>  
+---
 
-<a href="https://github.com/kola524/api.loc">REST API PROJECT</a>
+### 🚀 Избранные проекты
 
-### Сайты Картинки кликабельны редирект на репозиторий с кодом сайта
+#### [REST API PROJECT](https://github.com/kola524/api.loc)
+Разработка надежного API с использованием современных архитектурных паттернов.
+*Стек: PHP (Slim 4), Docker, MySQL.*
 
-<a href="https://github.com/kola524/nick"><img src="./img/nick.png"> </a>
-<br/>  
+#### [Telegram Bot (Aiogram)](https://github.com/kola524/python_botergergert)
+Автоматизация процессов и создание интерактивных интерфейсов в мессенджере.
+*Стек: Python, Aiogram.*
 
-<a href="https://github.com/kola524/web-site-org"><img src="./img/comp.png"> </a>
+#### [Portfolio Website](https://github.com/kola524/nick)
+Персональный сайт с адаптивной версткой.
+<br>
+<a href="https://github.com/kola524/nick">
+  <img src="./img/nick.png" width="400" alt="Preview">
+</a>
 
+---
+
+### 📊 Статистика
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kola524&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kola524&layout=compact&theme=radical" />
+</div>
+
+---
+
+### 📫 Как со мной связаться:
+- **Telegram:** @kaldoruser
+- **Email:** bkola684@gmail.com
