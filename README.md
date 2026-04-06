@@ -47,14 +47,7 @@
   <img src="./img/nick.png" width="400" alt="Preview">
 </a>
 
----
 
-### 📊 Статистика
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kola524&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kola524&layout=compact&theme=dark" alt="Top Languages" />
-</div>
 
 ---
 
